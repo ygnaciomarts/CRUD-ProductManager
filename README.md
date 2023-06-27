@@ -1,4 +1,4 @@
-# CRUD-ProductManager
+# ProductManager-CRUD
 A comprehensive SQL Server-powered application created to efficiently manage and organize vinyl record data. 
 
 This project encompasses the following key features:
